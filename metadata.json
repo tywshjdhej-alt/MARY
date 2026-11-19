@@ -1,0 +1,6 @@
+{
+  "name": "MARY – The Forgotten City",
+  "description": "3D third-person psychological horror, puzzle, and survival game prototype with adaptive Mary AI, mobile touch controls, offline save system, and Unity C# project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

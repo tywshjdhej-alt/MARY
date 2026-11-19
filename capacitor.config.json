@@ -1,0 +1,12 @@
+{
+  "appId": "com.mary.forgottencity",
+  "appName": "MARY",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#07080b",
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
